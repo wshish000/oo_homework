@@ -90,7 +90,7 @@
 	                          	<td colspan="2"><FONT color="red"><s:actionerror/></FONT></td><!--显示错误信息 -->
 	                          </tr>
 	                          <tr>
-	                            <td width="14%" height="38" class="top_hui_text"><span class="login_txt">编号：&nbsp;&nbsp; </span></td>
+	                            <td width="14%" height="38" class="top_hui_text"><span class="login_txt">学号/教师证号：&nbsp;&nbsp; </span></td>
 	                            <td height="38" colspan="2" class="top_hui_text"><input name="id" class="editbox4" value="" size="20">                            </td>
 	                          </tr>
 	                          <tr>
